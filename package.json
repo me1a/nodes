@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/me1a/nodes/issues"
   },
-  "homepage": "https://github.com/me1a/nodes#readme"
+  "homepage": "https://github.com/me1a/nodes#readme",
+  "dependencies": {
+    "cpu-stat": "^2.0.1"
+  }
 }
